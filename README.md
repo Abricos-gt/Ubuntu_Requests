@@ -38,7 +38,7 @@ pip install requests
 ▶️ Usage
 
 1️⃣ Clone or Download this repository:
-git clone https://github.com/<your-username>/ubuntu-image-fetcher.git
+git clone https://github.com/Abricos-gt/ubuntu-image-fetcher.git
 cd ubuntu-image-fetcher
 
 
@@ -103,3 +103,4 @@ Feel free to fork this repository and submit a pull request with improvements or
 📜 License
 
 This project is licensed under the MIT License
+
